@@ -1,7 +1,8 @@
-# 👨‍💻Hey, I'm Felipe 🇬🇧 , 🇪🇸 Hola, soy Felipe 🇨🇱, Kaixo, Felipe naiz 🏴󠁥󠁳󠁰󠁶󠁿
-##   
-### 
+# 👨‍💻 Hey, I'm Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/> , <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/> Hola, soy Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cl.svg" width="20"/>, Kaixo, Felipe naiz <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb-eng.svg" width="20"/>
 
+---
+
+###  
 **Computer Science Engineering Student**  
 *Focused on Full Stack Development, AI and Cybersecurity*  
 *Enfocado en Desarrollo Full Stack, IA y Ciberseguridad*  
