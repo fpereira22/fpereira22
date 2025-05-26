@@ -1,4 +1,3 @@
-Hi!
 # Hey, I'm Felipe  
 ## Hola, soy Felipe  
 ### Kaixo, Felipe naiz
