@@ -1,6 +1,6 @@
-# Hey, I'm Felipe  
-## Hola, soy Felipe  
-### Kaixo, Felipe naiz
+# 👨‍💻Hey, I'm Felipe 🇬🇧 , 🇪🇸 Hola, soy Felipe 🇨🇱, Kaixo, Felipe naiz 🏴󠁥󠁳󠁰󠁶󠁿
+##   
+### 
 
 **Computer Science Engineering Student**  
 *Focused on Full Stack Development, AI and Cybersecurity*  
