@@ -1,4 +1,4 @@
-# 👨‍💻 Hey, I'm Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/> , <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/> Hola, soy Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cl.svg" width="20"/>, Kaixo, Felipe naiz <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb-eng.svg" width="20"/>
+# 👨‍💻 Hey, I'm Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/gb.svg" width="20"/> , <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/es.svg" width="20"/> Hola, soy Felipe <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/cl.svg" width="20"/>, Kaixo, Felipe naiz <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Flag_of_the_Basque_Country.svg" width="20"/>
 
 ---
 
@@ -81,9 +81,11 @@ Feel free to explore this profile in your preferred language!
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipepereira22/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:fpereira22@alumnos.udec.cl)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felipe-pereira-alarc%C3%B3n/)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:fpereiraalarcn@uandresbello.edu)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/fpereira22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_f.pereira14/)
+[![TikTok](https://img.shields.io/badge/Tiktok-black?logo=tiktok)](https://www.tiktok.com/_f.pereira14/)
 
 ---
 
