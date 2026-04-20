@@ -19,7 +19,7 @@ Feel free to explore this profile in your preferred language!
 
 ## 🚀 About Me
 
-- 🎓 I'm currently finishing my degree in **Computer Science Engineering**
+- 🎓 I finish my degree in **Computer Science Engineering**, now cursing a MSc on **Computer Science**
 - 🔭 I’m working on computer vision, AI and web applications
 - 💡 Passionate about automation, full stack development and open-source projects
 - 🧠 Constantly learning new technologies like **AI, FastAPI, and MERN Stack**
